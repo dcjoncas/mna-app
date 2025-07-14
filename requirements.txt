@@ -1,0 +1,8 @@
+Flask
+openai>=1.0.0
+python-dotenv
+pandas
+python-docx
+PyPDF2
+gunicorn
+werkzeug
